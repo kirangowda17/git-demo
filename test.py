@@ -1,1 +1,1 @@
-print("hello world") gi
+print("hello world")
